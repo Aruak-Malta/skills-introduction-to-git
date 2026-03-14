@@ -1,16 +1,17 @@
-# Introduction to Git
+# Introdução ao Git
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<imagem fonte="https://octodex.github.com/images/Professortocat_v2.png" alinhar="certo" alta="200px" />
 
-Hey Aruak-Malta!
+Olá, Aruak-Malta!
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+Travou aqui e não consigo avançar.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+
+Lembre-se, o ritmo é rápido, não fique à vontade para fazer uma pausa! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Aruak-Malta/skills-introduction-to-git/issues/1)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copia; GitHub 2025 &touro; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &touro; [Licença MIT](https://gh.io/mit)
 
